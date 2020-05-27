@@ -56,6 +56,12 @@ body{
     color:#db2b39;
     font-size: 2vw;
 }
+#txt p{
+    font-size: 2vw;
+}
+#credits{
+    font-size: 2vw;
+}
 hr{
     margin-top: 8vw;
 }
