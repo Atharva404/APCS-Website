@@ -24,7 +24,7 @@ body{
     padding: 0.8vw 1vw;
     margin-right: 1.2vw;
     font-family:'Montserrat';
-    transition: 0.5s;
+    transition: 0.2s;
 }
 #credits p{
     color: #000;
@@ -37,6 +37,13 @@ body{
     border: none;
     border-radius: 0.7vw;
     background-color: #F0F4EF;
+}
+#credits p{
+    font-family: 'Montserrat';
+    font-size: 3vw;
+    color: #373E40;
+    float:right;
+    padding: 3vw 40px;
 }
 #quotes{
     text-align: center;
@@ -53,13 +60,8 @@ body{
 #credits{
     text-align: center;
     margin-top: 8vw;
+    font-family: 'Montserrat';
     color:#db2b39;
-    font-size: 2vw;
-}
-#txt p{
-    font-size: 2vw;
-}
-#credits{
     font-size: 2vw;
 }
 hr{
