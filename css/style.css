@@ -89,7 +89,7 @@ hr{
     display:inline-block;
     margin:0;
 }
-.back h1{
+.awesome{
     margin-top: 18vw;
     color: #373e40;
     -webkit-animation: colorchange 20s infinite alternate;
