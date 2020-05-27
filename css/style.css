@@ -1,0 +1,100 @@
+*{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #ffead0;
+    margin: 0;
+}
+.back{
+    text-align: center;
+    font-size: 2.8vw;
+    font-family:'Montserrat';
+    font-weight:600;
+}
+.tab-item{
+    text-decoration:none;
+    background-color: #edb88b;
+    font-size: 1.3vw;
+    font-weight: 800;
+    color: #333745;
+    padding: 0.8vw 1vw;
+    margin-right: 1.2vw;
+    font-family:'Montserrat';
+    transition: 0.5s;
+}
+#credits p{
+    color: #000;
+    padding: 1vw 200px;
+    font-size: 2.5vw;
+}
+.tab-item:hover {
+    font-size: 2vw;
+    color: #000;
+    border: none;
+    border-radius: 0.7vw;
+    background-color: #F0F4EF;
+}
+#quotes{
+    text-align: center;
+    margin-top: 8vw;
+    color:#db2b39;
+    font-size: 2vw;
+}
+#thankyou{
+    text-align: center;
+    margin-top: 8vw;
+    color:#db2b39;
+    font-size: 2vw;
+}
+#credits{
+    text-align: center;
+    margin-top: 8vw;
+    color:#db2b39;
+    font-size: 2vw;
+}
+hr{
+    margin-top: 8vw;
+}
+#quotes p {
+    font-family: 'Montserrat';
+    font-size: 3vw;
+    color: #373E40;
+}
+#new p{
+    color: #000;
+}
+#navbar{
+    background-color: #fe5f55;
+    margin: 0;
+    padding: 1vw;
+}
+
+#navbar ul {
+    margin-left: 60%;
+    list-style-type: none;
+}
+#navbar ul li {
+    display:inline-block;
+    margin:0;
+}
+.back h1{
+    margin-top: 18vw;
+    color: #373e40;
+}
+#img{
+    text-align: center;
+}
+#terminal-style-animate{
+    animation: 3s blinker linear infinite;
+}
+@keyframes blinker{
+    0%{
+        opacity: 1.0;
+    }
+    50%{
+        opacity: 0.0;
+    }
+    100%{
+        opacity: 1.0;
+    }
+}
