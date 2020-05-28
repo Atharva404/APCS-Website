@@ -71,8 +71,9 @@ hr{
 }
 #quotes p {
     font-family: 'Montserrat';
-    font-size: 2vw;
+    font-size: 1.5vw;
     color: #373E40;
+    padding: 1.3vw 30px;
 }
 #new p{
     color: #000;
