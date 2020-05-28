@@ -40,7 +40,7 @@ body{
 }
 #credits p{
     font-family: 'Montserrat';
-    font-size: 3vw;
+    font-size: 2vw;
     color: #373E40;
     float:right;
     padding: 3vw 40px;
@@ -69,7 +69,7 @@ hr{
 }
 #quotes p {
     font-family: 'Montserrat';
-    font-size: 3vw;
+    font-size: 2vw;
     color: #373E40;
 }
 #new p{
